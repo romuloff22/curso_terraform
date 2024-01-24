@@ -1,6 +1,6 @@
 locals {
   comom_tags = {
-    owner      = "romuloff"
+    owner      = "romulofaria"
     managed-by = "terraform"
   }
 }
